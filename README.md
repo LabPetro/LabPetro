@@ -1,4 +1,4 @@
-![Banner](https://tenor.com/el/view/rebrnd-coding-programmer-programming-gif-5486586409214780761)
+<img src="https://media.tenor.com/TCRFRR67pVkAAAAi/rebrnd-coding.gif" alt="Masterhead Banner" width="100%" />
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Labros
 ==============================================================================================================================
