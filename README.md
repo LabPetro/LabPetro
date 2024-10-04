@@ -32,17 +32,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://raw.githubusercontent.com/LabPetro/react_people-table-advanced/refs/heads/develop/public/images/TableScreenshot.png" alt="Table Screenshot" style="width: 50%;" />
 </a>
 
-<span style="font-size: 24px;"><a href="https://labpetro.github.io/layout_miami/">Live Demo</a></span>
+<span style="font-size: 24px;"><a href="https://labpetro.github.io/react_people-table-advanced/#/people">Live Demo</a></span>
 
-## 3. [People Table Page (Git repository link)](https://github.com/LabPetro/react_people-table-advanced)
+## 3. [GameHub (Git repository link)](https://github.com/LabPetro/game-hub)
 
-<p style="font-size: 20px;">A React and TypeScript app that allows users to search, filter, and sort a dataset of people by name, century, and sex, with real-time feedback and responsive design.</p>
+<p style="font-size: 20px;"> A responsive web application for discovering and exploring video games. Built with React, TypeScript, React Query, Zustand and Chakra UI, it features game browsing, search functionality, filtering by genre and platform, and dynamic game data fetching with infinite scrolling. Deployed with Vercel for seamless performance.</p>
 
-<a href="https://labpetro.github.io/react_people-table-advanced/#/people">
-    <img src="https://raw.githubusercontent.com/LabPetro/react_people-table-advanced/refs/heads/develop/public/images/TableScreenshot.png" alt="Table Screenshot" style="width: 50%;" />
+<a href="https://game-hub-flame-six.vercel.app/">
+    <img src="https://raw.githubusercontent.com/LabPetro/game-hub/refs/heads/main/src/assets/GameHub.png" alt="Table Screenshot" style="width: 50%;" />
 </a>
 
-<span style="font-size: 24px;"><a href="https://labpetro.github.io/layout_miami/">Live Demo</a></span>
+<span style="font-size: 24px;"><a href="https://game-hub-flame-six.vercel.app/">Live Demo</a></span><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LabPetro&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
